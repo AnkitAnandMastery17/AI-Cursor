@@ -1,1 +1,1 @@
-# AI-Cursor
+#Namaste
